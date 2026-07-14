@@ -27,6 +27,7 @@ The company has customer transaction data but lacks actionable insights into cus
 ---
 
 Project Workflow:
+---
 ```
 Raw Dataset
       │
