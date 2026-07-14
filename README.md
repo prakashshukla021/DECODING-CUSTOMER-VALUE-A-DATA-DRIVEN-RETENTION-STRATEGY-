@@ -1,8 +1,6 @@
 Summer Analytics 2026 - Consulting and Analytics Club, IIT Guwahati
 by Prakash Shukla and Abhishek Meena
-
-This project analyzes customer purchasing behavior for a Direct-to-Consumer (D2C) fashion brand. The objective is to understand customer value, identify loyalty patterns, measure promotional dependency, and generate business recommendations that improve customer retention and profitability.
-
+---
 Project Overview:
 
 The company has customer transaction data but lacks actionable insights into customer behavior. Using Python, SQL, and Power BI, this project transforms raw data into meaningful business intelligence by answering questions such as:
